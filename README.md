@@ -8,7 +8,7 @@ As informações necessárias para o acompanhamento do minicurso estão disponib
 2 - PNGs.zip (imagens) e SFXs.zip (sound effects). Créditos: Profª Andrea Vargas 
 
 3 - O protótipo está publicado no link "secreto": https://jogo-01-aula-prototipo-1.netlify.app/ Vamos jogar? 
-Procurar acessar o link e avaliar os conceitos de game design e as funcionalidades básicas aplicadas ao game.
+Avalie os conceitos de game design e as funcionalidades básicas aplicadas ao game.
 
 4 - A engine utilizada para o desenolvimento do minicurso é Construct 3. Site oficial: https://www.construct.net/en
 
