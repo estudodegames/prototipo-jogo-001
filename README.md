@@ -9,4 +9,6 @@ O pacote necessário para o acompanhamento da atividade está disponibilizado no
 
 3 - SFXs.zip são os sound effects aplicados ao jogo. Créditos: Profª Andrea Vargas 
 
-Observação: A engine utilizada para o desenolvimento do minicurso é Construct 3. Site oficial: https://www.construct.net/en
+Observação (1): A engine utilizada para o desenolvimento do minicurso é Construct 3. Site oficial: https://www.construct.net/en
+
+
