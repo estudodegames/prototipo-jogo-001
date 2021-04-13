@@ -5,10 +5,10 @@ O pacote necessário para o acompanhamento da atividade está disponibilizado no
 
 1 - Jogo 01 Prototipo-1.mp4 é o vídeo de apresentação do game.
 
-2 - PNGs.zip são as imagens apicadas ao jogo. Créditos: Profª Andrea Vargas 
+2 - PNGs.zip (imagens) e SFXs.zip (sound effects). Créditos: Profª Andrea Vargas 
 
-3 - SFXs.zip são os sound effects aplicados ao jogo. Créditos: Profª Andrea Vargas 
+3 - Link "secreto": 
 
-Observação (1): A engine utilizada para o desenolvimento do minicurso é Construct 3. Site oficial: https://www.construct.net/en
+Observação: A engine utilizada para o desenolvimento do minicurso é Construct 3. Site oficial: https://www.construct.net/en
 
 
