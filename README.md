@@ -6,6 +6,12 @@ Protótipo prático de um Jogo Casual para Dispositivos Móveis.
 
 Resumo do conceito: Coletar todos os itens para conseguir evoluir nas fases.  
 
+Informações gerais:
+
+* Desenvolvido no Construct 3 64 Bits.
+
+* Plataforma Dispositivos móveis.
+
 As informações necessárias para o acompanhamento do minicurso estão disponibilizadas para download pelos seguintes arquivos: 
 
 1 - Jogo 01 Prototipo-1.mp4 (Gameplay).
