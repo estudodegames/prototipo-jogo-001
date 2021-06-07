@@ -2,7 +2,7 @@
 ## Minicurso 1  
 ## Profª Andrea Vargas - 2021
 
-Protótipo prático de um Jogo Casual para Dispositivos Móveis.  
+Protótipo prático 2D de um Jogo Casual para Dispositivos Móveis.  
 
 Resumo do conceito: Coletar todos os itens para conseguir evoluir nas fases.  
 
