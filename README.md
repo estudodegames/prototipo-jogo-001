@@ -4,6 +4,8 @@
 
 Minicurso 1 - Protótipo prático de um Jogo Casual para Dispositivos Móveis [Profª Andrea Vargas - 2020/2021]
 
+Resumo do conceito: Coletar todos os itens para conseguir evoluir nas fases.  
+
 As informações necessárias para o acompanhamento do minicurso estão disponibilizadas para download pelos seguintes arquivos: 
 
 1 - Jogo 01 Prototipo-1.mp4 (Gameplay).
