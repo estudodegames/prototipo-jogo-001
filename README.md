@@ -2,7 +2,7 @@
 ## Minicurso 1 - Protótipo prático 
 ## Profª Andrea Vargas - 2021
 
-Minicurso 1 - Protótipo prático de um Jogo Casual para Dispositivos Móveis [Profª Andrea Vargas - 2020/2021]
+Minicurso 1 - Protótipo prático de um Jogo Casual para Dispositivos Móveis.  
 
 Resumo do conceito: Coletar todos os itens para conseguir evoluir nas fases.  
 
