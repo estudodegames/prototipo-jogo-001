@@ -1,4 +1,4 @@
-# Protótipo - Jogo 01
+# Protótipo - Jogo 001
 ## Minicurso 1  
 ## Profª Andrea Vargas - 2022
 
