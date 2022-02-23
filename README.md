@@ -1,6 +1,6 @@
-# Protótipo - Jogo 001
+# Protótipo - Jogo 01
 ## Minicurso 1  
-## Profª Andrea Vargas - 2021
+## Profª Andrea Vargas - 2022
 
 Protótipo prático 2D de um Jogo Casual para Dispositivos Móveis.  
 
