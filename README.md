@@ -4,6 +4,10 @@
 
 Protótipo prático 2D de um Jogo Casual para Dispositivos Móveis.  
 
+<div align = "center">
+<img src ="https://github.com/andreacvr/prototipo-jogo-001/assets/73232081/aa876d0f-7219-41df-9f8b-f137b3523612" width=200px>
+</div>
+
 Resumo do conceito: Coletar todos os itens para conseguir evoluir nas fases.  
 
 Informações gerais:
